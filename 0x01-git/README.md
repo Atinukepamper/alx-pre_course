@@ -1,3 +1,1 @@
-My own readme
-correctioin
-correction
+i have edted this file on github
